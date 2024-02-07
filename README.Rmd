@@ -21,3 +21,15 @@ Submit a link to your repository on Canvas (only one submission per team) to sig
 This line is from Rstudio
 
 - Line from RStudio
+
+Both of us had to set up git before we started since neither of us had completed the setup earlier this week.
+
+Cloning the repository was simple once everything was set up, and we didn't have any trouble viewing the files.
+
+We entered and attempted to commit the changes. Carolyn found she had to log in to gitbash first before the commits were able to get through. 
+
+We then pushed the files, and Luke had to merge the changes in order to get his edits to got through.
+
+Afterwards we both pulled from the repository to make sure the changes went through, and checked the repository itself. There were no issues found.
+
+
