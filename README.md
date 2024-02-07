@@ -1,4 +1,5 @@
 
+- Line from RStudio
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
 # Lab report \#1
